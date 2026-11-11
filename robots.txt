@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ghaniyfadhilaltaf.my.id/sitemap.xml
+Sitemap: https://www.ghaniyfadhilaltaf.web.id/sitemap.xml
